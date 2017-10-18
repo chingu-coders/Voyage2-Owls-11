@@ -14,10 +14,28 @@ body
 {
     background-color: #380089;
     background-position: 20% 50%;
-    height: 553px;
+    height: 757px;
     width: 100vw;
     color: #fff;
     position: relative;
     padding: 100px 15px 100px;
+    margin-top: 50px;
 
+}
+.btn-slack img
+{
+    width: 215px;
+}
+
+.images
+{
+    height: auto;
+    max-width: 100%;
+    margin-top: 15px;
+    margin-right: 150px
+    
+}
+h2
+{
+    font-size: 47px;
 }
