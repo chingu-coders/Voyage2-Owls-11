@@ -1,0 +1,23 @@
+body
+{
+
+}
+.items
+{
+    align-items: center;
+}
+.bg-dark
+{
+    background-color: #380089 !important;
+}
+.landing-page
+{
+    background-color: #380089;
+    background-position: 20% 50%;
+    height: 553px;
+    width: 100vw;
+    color: #fff;
+    position: relative;
+    padding: 100px 15px 100px;
+
+}
